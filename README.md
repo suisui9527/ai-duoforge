@@ -31,6 +31,14 @@
 
 ---
 
+<p align="center">
+  <img src="assets/duoforge-demo.gif" alt="AI DuoForge Demo - Real Estate Listing" width="720">
+  <br>
+  <em>Full demo: Overseer (Hermes) ↔ Worker (ClawX) iterate a luxury condo listing in 73 seconds</em>
+</p>
+
+---
+
 ## Why DuoForge?
 
 A single AI agent has one brain. It plans, executes, and reviews — all in the same context window. Confirmation bias kicks in. Token limits hit. Blind spots compound.
