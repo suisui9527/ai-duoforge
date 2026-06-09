@@ -32,9 +32,13 @@
 ---
 
 <p align="center">
-  <img src="assets/duoforge-demo.gif" alt="AI DuoForge 演示 - 房地产 Listing" width="720">
+  <img src="assets/duoforge-demo.gif" alt="房地产 Demo" width="48%">
+  &nbsp;&nbsp;
+  <img src="assets/duoforge-hr-demo.gif" alt="HR Demo" width="48%">
   <br>
-  <em>真实 Demo：总监（Hermes）↔ 工人（ClawX）迭代一套北京CBD豪宅房源描述，全程73秒</em>
+  <em>左：房地产 — 经纪人 ↔ 写手 迭代豪宅房源描述（73秒）</em>
+  <br>
+  <em>右：人力资源 — HR经理 ↔ 招聘专员 起草高级PM职位描述（84秒）</em>
 </p>
 
 ---

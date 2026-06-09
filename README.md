@@ -32,9 +32,13 @@
 ---
 
 <p align="center">
-  <img src="assets/duoforge-demo.gif" alt="AI DuoForge Demo - Real Estate Listing" width="720">
+  <img src="assets/duoforge-demo.gif" alt="AI DuoForge Demo - Real Estate Listing" width="48%">
+  &nbsp;&nbsp;
+  <img src="assets/duoforge-hr-demo.gif" alt="AI DuoForge Demo - HR Job Description" width="48%">
   <br>
-  <em>Full demo: Overseer (Hermes) ↔ Worker (ClawX) iterate a luxury condo listing in 73 seconds</em>
+  <em>Left: Real Estate — Hermes (Agent) ↔ ClawX (Writer) iterate a luxury condo listing in 73s</em>
+  <br>
+  <em>Right: HR — Hermes (HR Manager) ↔ ClawX (Talent Specialist) draft a Senior PM JD in 84s</em>
 </p>
 
 ---
