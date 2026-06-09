@@ -1,0 +1,37 @@
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ai-duoforge"
+version = "0.1.0"
+description = "Two AI agents, one pair — Overseer plans, Worker executes, they iterate until quality passes."
+readme = "README.md"
+license = {text = "MIT"}
+authors = [{name = "AI DuoForge"}]
+keywords = ["ai-agent", "multi-agent", "pair-programming", "collaboration", "mcp"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+requires-python = ">=3.8"
+dependencies = [
+    "pyyaml>=6.0",
+]
+
+[project.scripts]
+duoforge = "duoforge.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["duoforge*"]
+
+[project.urls]
+Homepage = "https://github.com/suisui9527/ai-duoforge"
+Source = "https://github.com/suisui9527/ai-duoforge"
